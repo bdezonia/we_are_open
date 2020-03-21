@@ -6,7 +6,7 @@ Municipalities (Madison, Middleton, Shorewood Hills, Fitchburg, Verona, Waunakee
                 Cottage Grove, Monona, Sun Prairie, Burke, Cross Plains, Westport,
                 others - please specify)
 
-##Contributing
+## Contributing
 
   - if you are a github developer then please submit a pull request with your changes.
 
