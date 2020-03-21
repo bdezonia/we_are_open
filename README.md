@@ -29,7 +29,7 @@ Municipalities (Madison, Middleton, Shorewood Hills, Fitchburg, Verona, Waunakee
 4. Grocery stores
 5. Pantries
 6. Food takeout and delivery
-7. Repair services (auto, home, utilities, computer, phone)
+7. Repair services (auto, home, utilities, computer, phone, appliance)
 8. Gas stations
 9. Transportation
 10. Hardware stores
