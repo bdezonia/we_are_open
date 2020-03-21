@@ -39,6 +39,8 @@ Municipalities (Madison, Middleton, Shorewood Hills, Fitchburg, Verona, Waunakee
 14. Phone purchase and support
 15. Banking
 16. Childcare
+17. Eyecare
+18. Counseling services
 
 <please suggest other categories: many needed>
 
