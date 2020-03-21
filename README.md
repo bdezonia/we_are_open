@@ -6,17 +6,19 @@ Municipalities (Madison, Middleton, Shorewood Hills, Fitchburg, Verona, Waunakee
                 Cottage Grove, Monona, Sun Prairie, Burke, Cross Plains, Westport,
                 others - please specify)
 
-Contributing
+##Contributing
 
-  if you are a github developer then please submit a pull request with your changes.
+  - if you are a github developer then please submit a pull request with your changes.
 
-  if you are a non-developer create a github account for your self and file a new Issue
+  - if you are a non-developer create a github account for yourself and file a new
+    [Issue](https://github.com/bdezonia/we_are_open/issues/new)
     with information to input into the table structure below. Someone will add the
     info as time allows. 
 
-  if you think there is a better service to house this information that is good at
+  - if you think there is a better service to house this information that is good at
     supporting collaborative editing and accepting outside suggestions please feel
-    free to discuss them here.
+    free to open an [Issue](https://github.com/bdezonia/we_are_open/issues/new) to
+    start a discussion.
 
 | Business type | Municipality | Business Name | Phone number | Last confirmed date |
 |---------------|--------------|---------------|--------------|---------------------|
