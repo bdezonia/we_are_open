@@ -21,25 +21,23 @@ Contributing
 | Business type | Municipality | Business Name | Phone number | Last confirmed date |
 |---------------|--------------|---------------|--------------|---------------------|
 
-Medical centers
-Pharmacies
-Big stores (Walmart, Target, etc.)
-Grocery stores
-Pantries
-Food takeout and delivery
-Repair services
-  auto
-  home 
-  energy
-  computer
-Gas stations
-Transportation
-Hardware stores
-Laundromats
-Clothing
-Internet service providers
-Phone purchase and support
-Banking
+1. Medical centers
+2. Pharmacies
+3. Big stores (Walmart, Target, etc.)
+4. Grocery stores
+5. Pantries
+6. Food takeout and delivery
+7. Repair services (auto, home, utilities, computer, phone)
+8. Gas stations
+9. Transportation
+10. Hardware stores
+11. Laundromats
+12. Clothing
+13. Internet service providers
+14. Phone purchase and support
+15. Banking
+16. Childcare
+
 <please suggest other categories: many needed>
 
 Other listings:
